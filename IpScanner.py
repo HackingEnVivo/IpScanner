@@ -1,7 +1,7 @@
 from socket import gethostbyname
 
 def Miscript():
-	print'\a=[Welcome to Ip Scanner by: Jey Zeta]='
+	print'\a=[Welcome to Ip Scanner by: Hacking Live]='
 	target = raw_input('./Enter the Host: ')
 	targetIP = gethostbyname(target)
 	print '\a-Target IP ===>', targetIP
