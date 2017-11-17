@@ -16,6 +16,7 @@ The project is open to partners.
 # INSTALLATION:
 Installation and download of IpScanner
 <pre><i><n>git clone https://github.com/HackingEnVivo/IpScanner.git
+</pre></i></n>
 
 # REQUIREMENTS:
 Have Python Version 2.7 Installed
