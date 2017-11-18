@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/clVP5EL.png" title="IpScanner">
 
 # ABOUT.
-Script made in python, to remove the IP, from the web pages.
+Script made in python, to take the IP, from the web pages.
 
 The project is open to partners.
 
