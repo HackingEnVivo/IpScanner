@@ -1,12 +1,15 @@
 from socket import gethostbyname
-
+from colorama import Fore, init
+init()
 def Miscript():
-	print'\a=[Welcome to Ip Scanner by: Hacking Live]='
-	target = raw_input('./Enter the Host: ')
+	print(Fore.GREEN +'Welcome to Ip Scanner by: Hack Underway \U0001F1F5\U0001F1EA')
+	target = input('./Enter the Host: ')
 	targetIP = gethostbyname(target)
-	print '\a-Target IP ===>', targetIP
-	print '+------------------------------------+'
+	print('Target IP ===>', targetIP)
+	print('+------------------------------------+')
 	Miscript()
 Miscript()
 
-#CyberWar :) 4PUNT4 4 L0 1MP0$1BL3 :)
+#pip install emoji
+#pip install gethostbyname
+#pip install colorama
